@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:richard.hoyle1@hotmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/richhoyle444).
+Feel free to reach out to me via [email](mailto:richard.hoyle1@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/richhoyle444).
 
 ## Thank You for Visiting!
 
