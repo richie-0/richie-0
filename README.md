@@ -8,7 +8,7 @@ Hello there! I'm Richard, an aspiring Data Scientista. I hold a degree in mathem
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Sentiment_analysis](https://github.com/richie-0/finalCapstone/blob/main/sentiment_analysis.ipynb)
+### [Project 1: Movie Recommendation System](https://github.com/richie-0/finalCapstone)
 
 ## Contact Me
 
