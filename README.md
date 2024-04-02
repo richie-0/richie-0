@@ -9,7 +9,7 @@ Hello there! I'm Richard, an aspiring Data Scientista. I hold a degree in mathem
 Here are some of the projects I've been working on:
 
 ### [Project 1: Sentiment Analysis](https://github.com/richie-0/sentiment_analysis)
-### [Project 2: Movie Recommendation System](https://github.com/richie-0/movie_recommendations/tree/main)
+### [Project 2: Drug Classification](https://github.com/richie-0/drug_classification_tree)
 ### [Project 3: Linear Regression](https://github.com/richie-0/insurance_regression)
 
 ## Contact Me
